@@ -1,0 +1,5 @@
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Job05\Job05\bin\Debug\Job05.exe
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Job05\Job05\bin\Debug\Job05.pdb
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Job05\Job05\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Job05\Job05\obj\Debug\Job05.exe
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Job05\Job05\obj\Debug\Job05.pdb

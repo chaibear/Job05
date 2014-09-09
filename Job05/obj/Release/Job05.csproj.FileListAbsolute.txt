@@ -1,0 +1,10 @@
+C:\Users\Paul\AppData\Local\Temporary Projects\Job05\bin\Release\Job05.exe
+C:\Users\Paul\AppData\Local\Temporary Projects\Job05\bin\Release\Job05.pdb
+C:\Users\Paul\AppData\Local\Temporary Projects\Job05\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Paul\AppData\Local\Temporary Projects\Job05\obj\Release\Job05.exe
+C:\Users\Paul\AppData\Local\Temporary Projects\Job05\obj\Release\Job05.pdb
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Job05\Job05\obj\Release\Job05.exe
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Job05\Job05\obj\Release\Job05.pdb
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Job05\Job05\bin\Release\Job05.exe
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Job05\Job05\bin\Release\Job05.pdb
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Job05\Job05\obj\Release\ResolveAssemblyReference.cache
